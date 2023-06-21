@@ -57,9 +57,9 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-PostgreSQL server installed and running.
-psql installed
+PostgreSQL server installed and running
 
+psql installed
 
 In order to run this project you need:
 to install git on your computer. Follow the instruction on the page to do so

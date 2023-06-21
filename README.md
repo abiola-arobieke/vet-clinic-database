@@ -1,5 +1,9 @@
 <a name="readme-top"></a>
 
+<div align="center">
+  <h3><b>Vet Clinic Database</b></h3>
+</div>
+
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -10,7 +14,6 @@
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
-  - [Install](#install)
   - [Usage](#usage)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
@@ -19,18 +22,16 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 [VET CLINIC DATABASE] <a name="about-project"></a>
+# 📖 Vet Clinic Database <a name="about-project"></a>
 
-**[VET CLINIC DATABASE]** is a relational database for initial data structure for a vet clinic. It has a table that store animals' information such as name, date_of_birth, weight etc.
+**Vet Clinic Database** is a relational database for initial data structure for a vet clinic. It has a table that store animals' information such as name, date_of_birth, weight etc.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-SQL
-
 <details>
-<summary>Database</summary>
+<summary>SQL</summary>
   <ul>
     <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
   </ul>
@@ -38,9 +39,9 @@ SQL
 
 ### Key Features <a name="key-features"></a>
 
-- **[Create a database named vet_clinic]**
-- **[Create a table named animals]**
-- **[Add columns to the animals table]**
+- **Create a database named vet_clinic**
+- **Create a animals table**
+- **Add columns to the animals table**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -50,28 +51,19 @@ SQL
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
-
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need:
+PostgreSQL server installed and running.
+psql installed
+
 
 In order to run this project you need:
 to install git on your computer. Follow the instruction on the page to do so
 [Click here ](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and follow the instruction on the page to install git
-
-
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
 
 ### Setup
 
@@ -96,11 +88,7 @@ Open the project on your code editor
    run with cmd (no need to install)
 ```
 
-<!-- AUTHORS -->
-
 ## 👥 Authors <a name="authors"></a>
-
-> Mention all of the collaborators of this project.
 
 👤 **Author**
 
@@ -109,8 +97,6 @@ Open the project on your code editor
 - Twitter: [@abiola_arobieke](https://twitter.com/abiola_arobieke)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 

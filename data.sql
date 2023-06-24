@@ -69,3 +69,4 @@ INSERT INTO visits (animal_id, vet_id, visit_date) VALUES ((SELECT id FROM anima
 INSERT INTO visits (animal_id, vet_id, visit_date) VALUES ((SELECT id FROM animals WHERE name IN ('Boarmon')), (SELECT id FROM vets WHERE name IN ('Maisy Smith')), '2020-08-03');
 INSERT INTO visits (animal_id, vet_id, visit_date) VALUES ((SELECT id FROM animals WHERE name IN ('Blossom')), (SELECT id FROM vets WHERE name IN ('Stephanie Mendez')), '2020-05-24');
 INSERT INTO visits (animal_id, vet_id, visit_date) VALUES ((SELECT id FROM animals WHERE name IN ('Blossom')), (SELECT id FROM vets WHERE name IN ('William Tatcher')), '2021-01-11');
+

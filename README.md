@@ -24,6 +24,8 @@
 
 # 📖 Vet Clinic Database <a name="about-project"></a>
 
+<img width="752" alt="Screenshot 2023-06-29 at 16 40 55" src="https://github.com/abiola-arobieke/vet-clinic-database/assets/114492335/669863df-ede0-4bc9-9e4f-6a4d09eec030">
+
 **Vet Clinic Database** is a relational database for initial data structure for a vet clinic. It has a table that store animals' information such as name, date_of_birth, weight etc.
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -95,6 +97,10 @@ Open the project on your code editor
 - GitHub: [@abiola-arobieke](https://github.com/abiola-arobieke)
 - Linkedin: [@abiola-arobieke](https://linkedin.com/in/abiola-arobieke)
 - Twitter: [@abiola_arobieke](https://twitter.com/abiola_arobieke)
+
+EXPLAIN ANALYZE SELECT visit_total FROM animals WHERE id = 4;
+EXPLAIN ANALYZE SELECT * FROM Vet_Summary WHERE vet_id = 2;
+EXPLAIN ANALYZE SELECT * FROM owners where email = 'owner_18327@mail.com';
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
